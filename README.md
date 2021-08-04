@@ -6,3 +6,5 @@ TAG your tag will show on cheat.
 eg. abc@root ~#    
 root is TAG.  
 abc your username.  
+nend to setup server before use client   
+client can be more no worry XD
